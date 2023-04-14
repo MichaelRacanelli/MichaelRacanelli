@@ -3,4 +3,3 @@ Afterwards, I gained experience in the Pharmaceutical industry in Phase 4 clinic
 I then decided to pursue my passion and development, independently learning coding with python and machine learning libraries such as Tensorflow and Keras for the purpose of analyzing clinical data to find new trends and insights. 
 Later, I joined BenchSci as a Scientific Analyst to assist in reforming their QA workflow to improve oversight and reporting. 
 Now, I am looking to combine all my skills to use AI and data analytics in a clinical settings. 
-I am looking forward to what comes next, so please don't hesitate to reach out! Please email me at m.v.racanelli@gmail.com about potential opportunities.
